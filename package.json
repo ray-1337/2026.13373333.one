@@ -9,6 +9,8 @@
     "lint": "pnpm eslint"
   },
   "dependencies": {
+    "@mantine/core": "^8.3.9",
+    "@mantine/hooks": "^8.3.9",
     "next": "^16.0.3",
     "normalize.css": "^8.0.1",
     "react": "^19.2.0",
